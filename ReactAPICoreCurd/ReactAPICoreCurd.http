@@ -1,0 +1,6 @@
+@ReactAPICoreCurd_HostAddress = http://localhost:5248
+
+GET {{ReactAPICoreCurd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
